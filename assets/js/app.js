@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{const b=document.querySelector('#menuBtn'),n=document.querySelector('#mainNav');if(b)b.onclick=()=>n.classList.toggle('open');document.querySelectorAll('form').forEach(f=>f.addEventListener('submit',e=>{if(f.id==='flightForm'||f.id==='contactForm'){e.preventDefault();alert('Merci. Votre demande a été enregistrée.');}}));});
