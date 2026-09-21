@@ -1,0 +1,1 @@
+</main><footer><div class="container"><b>Success Travels</b><p>Votre partenaire voyage au Mali.</p><p>Bamako • +223 XX XX XX XX • contact@successtravels.ml</p></div><div class="copy">© <?=date('Y')?> Success Travels</div></footer><script src="<?=$assetBase?>assets/js/app.js"></script></body></html>
